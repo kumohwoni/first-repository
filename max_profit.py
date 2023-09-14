@@ -7,3 +7,5 @@ def maxProfit_bruteforce (prices):
 
    return
 
+print("hello how are you im fine thank you and you?")
+
